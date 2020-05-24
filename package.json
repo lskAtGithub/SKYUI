@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lskAtGithub/sk-button/issues"
   },
-  "homepage": "https://github.com/lskAtGithub/sk-button#readme"
+  "homepage": "https://github.com/lskAtGithub/sk-button#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
