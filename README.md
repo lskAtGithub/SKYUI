@@ -1,6 +1,8 @@
 # sk-button
 
-> A Vue.js project
+> 一个基于 Vue 的 UI 组件
+
+作者：  刘圣凯
 
 ## Build Setup
 
