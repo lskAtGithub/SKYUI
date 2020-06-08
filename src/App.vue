@@ -1,18 +1,21 @@
 <template>
   <div id="app">
-    <v-button>按钮</v-button>
+    <v-input v-model="msg"></v-input>
   </div>
 </template>
 
 <script>
 
-
-
 export default {
   name: 'app',
   data () {
     return {
+      load1: false,
+      load2: false,
+      msg: ''
     }
+  },
+  methods: {
   }
 }
 </script>
