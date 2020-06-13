@@ -19,6 +19,10 @@ export default {
     iconPosition: {
       type: String,
       default: 'left'
+    },
+    type: {
+      type: String,
+      default: 'normal'
     }
   }
 };

@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <v-input v-model="msg"></v-input>
+    <sk-input v-model="msg"></sk-input>
   </div>
 </template>
 
